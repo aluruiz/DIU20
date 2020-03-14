@@ -33,9 +33,9 @@ angular.module("angular", [])
 				Quote: "Soy el único protagonista de mi vida",
 				Age: 23,
 				Occupation: "Estudiante",
-				Family: "Recién separado",
+				Family: "Soltero",
 				Location: "Granada",
-				Character: "Le gusta conocer gente. Intenso.",
+				Character: "Ser más independiente.",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 5 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 4 },
@@ -43,8 +43,8 @@ angular.module("angular", [])
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
 				Goals: ["Dirigir su propia clinica deportiva.", "Tratar deportistas de alto nivel"],
-				Frustrations: ["No llegar a final de mes.", "No tener tiempo libre.", "No salir de plata."],
-				Bio: "Es un estudiante de Fisioterapia proveniente de Jimena de la Frontera, Cadiz. Dispuesto a aprender de todo, esta en su último año de carrera. Aquí ha hecho buenos amigos y normalmente se reúnen para salir de fiesta. ",
+				Frustrations: ["Siente que esta perdiendo el tiempo", "No tener un trabajo que proporcione estabilidad económica."],
+				Bio: "Es un estudiante de Fisioterapia proveniente de Jimena de la Frontera, Cadiz. Dispuesto a aprender de todo, esta en su último año de carrera. Aquí ha hecho buenos amigos, normalmente se reúnen para salir de fiesta y/o tomarse unas cervezas.",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 4 },
 					{ Name: "Movil", Value: 3 },
@@ -52,7 +52,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 5 }
 
 				],
-                Contextos: "Como acaba de separarse quiere desconectar. Le gustaría darse un capricho y realizar un viaje solo para conocerse más a si mismo.",
+        Contextos: "Busca independizarse, un cambio de aires, su motivación es descubrir nuevos lugares y aprender a valerse por si mismo.",
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional", Value: 1 },
 					{ Name: "Online & Social Media", Value: 4 },
@@ -71,21 +71,21 @@ angular.module("angular", [])
 				Id: 1,
 				Name: "Josefa Amparo",
 				Photo: "woman.png",
-				Quote: "",
+				Quote: "Nunca es tarde si la dicha es buena",
 				Age: 57,
 				Occupation: "Ilustradora Infantil",
 				Family: "Casada",
-				Location: "Villablino, León",
-				Character: "Descubrir mundo.",
+				Location: "Villablino, León.",
+				Character: " Cumplir un sueño",
 				PersonalityTraits: [
 					{ Name: "Introvertido/reservado Vs  Extrov/activo ", Value: 1 },
 					{ Name: "Realista/práctico  Vs    Intuición/imaginativo", Value: 1 },
 					{ Name: "Racional/analitico  Vs   Emocional/impulsivo", Value: 3 },
 					{ Name: "Flemático/apático  Vs   Colérico/visceral", Value: 3 }
 				],
-				Goals: ["Conocer nuevas lugares.", "Conocer a sus nietos"],
-				Frustrations: ["No tener tiempo para ella misma.", "La discapacidad de su marido."],
-				Bio: "Ama el arte desde joven, y adora su trabajo. Los ultimos años no ha podido crear tanto como queria porque tenia que cuidar de su marido. Sus hijos se han marchado, y lleva un tiempo con el sindrome del nido vacio. ",
+				Goals: ["Visitar Italia y Francia.", "Pintar."],
+				Frustrations: ["No poder compartir lo que le gustaría con su marido.", "No esta comoda con las tecnologías."],
+				Bio: "Ama el arte desde joven, y adora su trabajo. Los ultimos años no ha podido crear tanto como queria porque tenia que cuidar de su marido. Sus hijos se han marchado y ahora goza del tiempo libre suficiente para disfrutar de sus metas. ",
 				Tech: [
 					{ Name: "TIC/Internet", Value: 1 },
 					{ Name: "Mobile", Value: 3 },
@@ -93,7 +93,7 @@ angular.module("angular", [])
 					{ Name: "Software", Value: 1 }
 
 				],
-                Contextos:   "Cree que su familia se esta separando y busca que este viaje los una más como familia." ,
+                Contextos: "Ahora que puede, busca conseguir esa meta que se propuso de joven, que es viajar por toda Francia descubriendo su arte y pasear por Italia absorviendo su historia." ,
 				PreferredChannels: [
 					{ Name: "Publicidad Tradicional (Ads)", Value: 4 },
 					{ Name: "Online & Social Media", Value: 1 },
