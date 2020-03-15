@@ -29,7 +29,7 @@ angular.module("angular", [])
 
 				Id: 0,
 				Name: "Manuel Ortiz",
-				Photo: "man.png",
+				Photo: "hombre.jpg",
 				Quote: "Soy el único protagonista de mi vida",
 				Age: 23,
 				Occupation: "Estudiante",
@@ -70,7 +70,7 @@ angular.module("angular", [])
 
 				Id: 1,
 				Name: "Josefa Amparo",
-				Photo: "woman.png",
+				Photo: "mujer.png",
 				Quote: "Nunca es tarde si la dicha es buena",
 				Age: 57,
 				Occupation: "Ilustradora Infantil",

@@ -31,7 +31,7 @@ angular.module("angular", [])
 
 				Id: 0,
 				Name: "Manuel Ortiz",
-                Photo: "man.png",
+                Photo: "hombre.jpg",
 
                 /*** PASO #1: INSPIRACION ***/
                 goal1: "quiere preparar un viaje solo, ya que ha visto que a mucha gente le ha ido bien",
@@ -89,7 +89,7 @@ angular.module("angular", [])
 
 				Id: 1,
 				Name: "Josefa Amparo",
-                Photo: "woman.png",
+                Photo: "mujer.png",
 
 				 /*** PASO #1: INSPIRACION ***/
                 goal1: "Quiere preparar un viaje con su marido, para cumplir su sueño",
