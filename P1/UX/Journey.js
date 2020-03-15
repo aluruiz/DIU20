@@ -59,8 +59,8 @@ angular.module("angular", [])
 
                 goal4: "Buscando inspiración en internet, un influencer le recomienda esta aplicación a sus seguidores.",
                 touch4: "Movil - Instagram",
-                feel4: "5",
-                con4: "Ve las situaciones de distintos ",
+                feel4: "3",
+                con4: "Necesita registrarse en la aplicación para acceder a la información",
                 ima4: "cartoon-PCtyping.png",
 
                  /*** PASO #5: ANALIZA ***/
@@ -92,38 +92,38 @@ angular.module("angular", [])
                 Photo: "woman.png",
 
 				 /*** PASO #1: INSPIRACION ***/
-                goal1: "Quiere preparar un viaje con su marido, para descubrir mundo ",
+                goal1: "Quiere preparar un viaje con su marido, para cumplir su sueño",
                 touch1: "Agenda",
                 feel1: "5",
-                con1: "Quiere ir a un pais nuevo, con grandes historias sobre arte y monumentos",
+                con1: "Quiere ir a Italia o Francia, y conocer su arte y monumentos",
                 ima1: "cartoon-going.png",
 
                 /*** PASO #2: DECISION ***/
                 goal2: "Llama a una agencia para ver si hay algunas opciones",
                 touch2: "Teléfono",
                 feel2: "4",
-                con2: "Le cuentan varios lugares que le pueden gustar",
-                ima2: "cartoon-teamthinking.png",
+                con2: "Le comentan varios lugares que le pueden interesar",
+                ima2: "cartoon-phoning.png",
 
                 /*** PASO #3: ACTUA ***/
 
-                goal3: "Pregunta a sus hijos para elegir destino, y le enseñan algunas aplicaciones",
+                goal3: "Pregunta a sus hijos para elegir destino",
                 touch3: "Internet",
                 feel3: "3",
                 con3: "Piensa que internet es complicado, pero que siempre es momento de aprender",
-                ima3: "cartoon-phoningangry.png",
+                ima3: "cartoon-teamthinking.png",
 
                 /*** PASO #4: OBSERVA ***/
 
-                goal4: "Dentro de las apps, ve una que explica los diferentes sitios segun momentos del dia y sitios.",
+                goal4: "Sus hijos le enseñan una aplicación que ellos mismos utilizan cuando salen de viaje",
                 touch4: "Móvil (webapp)",
                 feel4: "2",
-                con4: "No se puede organizar el viaje en ella, pero se puede hacer una idea de los sitios a visitar y las distintas exposiciones",
-                ima4: "cartoon-phone-street.png",
+                con4: "Termina utilizando el móvil de uno de sus hijos porque la aplicación necesita registro",
+                ima4: "cartoon-phone-sitting.png",
 
                  /*** PASO #5: ANALIZA ***/
 
-                goal5: "Mira el arte de cada ciudad y decide dentro de las que le dio la agencia cual escoger y que sitios querra visitar ",
+                goal5: "Observa perfiles de personas que fueron a lugares donde ella quiere viajar y decide dentro de las que le dio la agencia cual escoger y que sitios querrá visitar ",
                 touch5: "Móvil (webapp)",
                 feel5: "5",
                 con5: "Mira todos los lugares que le gustan y disfruta mucho eligiendo.",
@@ -134,7 +134,7 @@ angular.module("angular", [])
 
                 goal6: "Consigue elegir un sitio, llama a la agencia",
                 touch6: "Teléfono",
-                feel6: "3",
+                feel6: "4",
                 con6: "En la agencia le dan las opciones de las excursiones a hacer, no todas son lo que queria pero estan bien.",
                 ima6: "cartoon-PChard.png",
 
