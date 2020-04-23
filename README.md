@@ -11,9 +11,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:  Daniel Matilla Bastero     :octocat:     
- * :bust_in_silhouette:  Juan Manuel Rubio Rodríguez     :octocat:
- * :bust_in_silhouette:  Paula Ruiz García     :octocat:
+ * :bust_in_silhouette:  Daniel Matilla Bastero     [:octocat:](https://github.com/Cadiducho)
+ * :bust_in_silhouette:  Juan Manuel Rubio Rodríguez     [:octocat:](https://github.com/juanmrr)
+ * :bust_in_silhouette:  Paula Ruiz García     [:octocat:](https://github.com/aluruiz)
 
 ----- 
 
@@ -77,9 +77,20 @@ Y por último, Josefa, una señora que utiliza la aplicación gracias a que sus 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
 A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
 
-| Interesante<br>La página de inicio es clara e intuitiva.<br>Diversidad a la hora de buscar destinos o lugares concretos.<br>Información exhaustiva sobre los destinos. <br>Es gratuita.<br>Perfil de red social. | Críticas.   <br>No poder contactar con la gente de manera sencilla.<br>Una opción de ayuda al cliente.<br>No se pueden cambiar las fotos de portada de los viajes.<br>Búsqueda mejorable (adolece de falta de localizaciones).<br>Se echa en falta poder añadir una descripción por cada fotografía. |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Preguntas.<br>¿Puedo contactar con gente para viajar?<br>¿Puedo contactar con alguien de soporte para que me ayude?<br>¿Puedo buscar un barrio concreto de una ciudad?<br>¿No hay más modos de edición?          | Nuevas ideas.<br>Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil.<br>Implementar una plataforma y/o pasarela para la adquisición del viaje.<br>Subir, además de fotografías, vídeos.                                                                                     |
+| Interesante/relevante                                        | Críticas constructivas                                                      |
+|--------------------------------------------------------------|-----------------------------------------------------------------------------|
+| La página de inicio es clara e intuitiva.                    | No poder contactar con la gente de manera sencilla                          |
+| Diversidad a la hora de buscar destinos o lugares concretos. | Una opción de ayuda al cliente                                              |
+| Información exhaustiva sobre los destinos                    | No se pueden cambiar las fotos de portada de los viajes                     |
+| Es gratuita                                                  | Búsqueda mejorable (adolece de falta de localizaciones)                     |
+| Perfil de red social                                         | Se echa en falta poder añadir una descripción por cada fotografía           |
+
+| Preguntas a partir de la experiencia                                    | Nuevas ideas                                                      |
+|----------------------------------------------------------------|-------------------------------------------------------------------------------|
+| ¿Puedo contactar con gente para viajar?                      | Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil |
+| ¿Puedo contactar con alguien de soporte para que me ayude?   | Implementar una plataforma y/o pasarela para la adquisición del viaje       |
+| ¿Puedo buscar un barrio concreto de una ciudad?              | Subir, además de fotografías, videos                                        |
+| ¿No hay modos de edición?                                    |                                                                             |
 
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
@@ -90,21 +101,45 @@ A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro 
 -----
 Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no logueados. Tras un análisis de la funcionalidad de la aplicación, llegamos a la conclusión de que las actividades permitidas a un usuario previamente registrado no varían de forma significativa en función de si pertenece a un grupo social concreto ni es discriminante por edad. Con lo cual vamos a agrupar a los usuarios en “logueados” y “no logueados”.
 
-[Dani añade tabla] 
+|                                                            | Usuario logueado | Usuario no logueado |
+|------------------------------------------------------------|------------------|---------------------|
+| Cambiar el idioma                                          | Medio            | Medio               |
+| Subir una fotografía/vídeo al perfil propio                | Alto             | -                   |
+| Editar una fotografía/vídeo                                | Medio            | -                   |
+| Buscar un destino mediante uno o varios filtros            | Alto             | Alto                |
+| Contactar con otro usuario para conocer detalles del viaje | Alto             | -                   |
+| Consultar información relativa al destino                  | Alto             | Alto                |
+| Crear un viaje al que se puedan unir otros usuarios        | Medio            | -                   |
+| Eliminar un viaje del perfil                               | Medio            | -                   |
+| Apuntarse/darse de baja a/de un viaje                      | Alto             | -                   |
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
+![Diseñp](https://i.imgur.com/QFgAdEe.png)
 El sitio web se divide en tres grandes ramas: una zona para la búsqueda de destinos así como información relativa a ellos, una zona para la gestión y desarrollo de los viajes (realización y búsqueda de usuarios) y una última zona asociada al perfil propio del usuario en la aplicación donde éste puede gestionar su actividad en el sitio.
 Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visualizan los últimos viajes/rutas creadas por usuarios y/o los más populares.
 
 >>> Identificar términos para diálogo con usuario  
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+| Label                                                                       | Scope Note                                                                                                                                                                                                                                                                                                                                                                                                      |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Home                                                                        | Compuesto por una cabecera que contiene el título de la página y el logotipo, una barra de navegación y, en la esquina superior derecha, el acceso al login del sitio web. También posee un cuerpo principal en el que se mostrarán los viajes más destacados subidos por los usuarios. En la parte superior se mostrará el motor de búsqueda de destinos. El pie de página lleva a la información de contacto. |
+| Login                                                                       | Se pide el correo del usuario y su contraseña para identificarse en el sitio. Debajo se ofrece la opción de registrarse en caso de no estarlo.                                                                                                                                                                                                                                                                  |
+| Búsqueda por lugar                                                          | Se realiza una búsqueda en el lugar en función de una/s palabra/s clave introducidas por el usuario en relación a un destino.                                                                                                                                                                                                                                                                                   |
+| Búsqueda por fecha                                                          | Se realiza una búsqueda de acuerdo al día indicado por el usuario.                                                                                                                                                                                                                                                                                                                                              |
+| Búsqueda por categoría                                                      | Se realiza una búsqueda de acuerdo a ciertas características asociadas a destinos como: explorar, chill, noche, dormir y comer.                                                                                                                                                                                                                                                                                 |
+| Búsqueda por duración                                                       | Se realiza una búsqueda según la duración que desee el usuario, distinguiendo entre corto (1-2 días), medio (3-6 días) y largo (+7).                                                                                                                                                                                                                                                                            |
+| Viajes                                                                      | Muestra los viajes que van a realizarse para que los usuarios se puedan apuntar y realizar un viaje organizado con más gente.                                                                                                                                                                                                                                                                                   |
+| Info                                                                        | "Información sobre el viaje a realizar.                                                                                                                                                                                                                                                                                                                                                                         |
+| (Días, lugar, excursiones...etc)"                                           |                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Usuarios                                                                    | "Usuarios que ya se han apuntado al viaje.                                                                                                                                                                                                                                                                                                                                                                      |
+| Además, tiene la opción de contactar con los creadores para exponer dudas." |                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| Apuntarse                                                                   | Formulario para apuntarse al viaje, además te da la información del precio que cuesta en ese momento y las opciones de vuelos y alojamientos.                                                                                                                                                                                                                                                                   |
+| Perfil                                                                      | Corresponde al sitio personal del usuario. Se muestran imágenes de los viajes ya realizados, y aquellos a los que se ha apuntado. Tiene carácter de red social. Se pueden subir fotografías y vídeos con sus respectivas descripciones.                                                                                                                                                                         |
+| Contacto                                                                    | Se ofrece un formulario para contactar con el administrador del lugar en caso de duda y/o problema relacionado con el sitio web.                                                                                                                                                                                                                                                                                |
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
@@ -112,6 +147,9 @@ Término | Significado
 
 >>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
+![](https://i.imgur.com/KeIVZWZ.jpg)
+
+![](https://i.imgur.com/vfOB0c8.jpg)
 
 ## Paso 3. Mi equipo UX-Case Study 
 
