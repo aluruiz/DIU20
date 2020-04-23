@@ -11,9 +11,9 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:  Daniel Matilla     :octocat:     
- * :bust_in_silhouette:  Juan Manuel Rubio     :octocat:
- * :bust_in_silhouette:  Paula Ruiz     :octocat:
+ * :bust_in_silhouette:  Daniel Matilla Bastero     :octocat:     
+ * :bust_in_silhouette:  Juan Manuel Rubio Rodríguez     :octocat:
+ * :bust_in_silhouette:  Paula Ruiz García     :octocat:
 
 ----- 
 
@@ -30,18 +30,31 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 ## Paso 1. UX Desk Research & Analisis 
 
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
------
+----- 
+(REHACER)
+Nuestras aplicaciones asignadas han sido aquellas que tratan sobre compartir viajes, son un tipo de app que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online.
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
+Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
+Por una parte tenemos a Manuel Ortiz, un chico joven y emprendedor que busca nuevas metas en su vida, tanto laborales como sociales. Para ello busca observar nuevos ámbitos donde poder tener un cambio de aires.
+
+(Imagen Manuel Ortiz)
+
+Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un pequeño pueblo de León, que ahora que tiene tiempo libre quiere aprovechar al máximo sus oportunidades y cumplir su sueño.
+
+(Imagen Josefa)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
-
+En primer lugar tenemos la experiencia de un chico joven, que ha vivido prácticamente en la era de la tecnología, y nuestra aplicación le ayuda más a revisar las cosas básicas de cada ciudad o país que busca visitar, tales como lo que cuesta vivir allí, las salidas nocturnas, los sitios de interés… etc.
+	Este caso creemos que es de los más comunes, ya que todos los estudiantes, una vez terminada la carrera, buscan salir al mundo y cambiar de aires. La búsqueda de una independencia económica es una de las razones que más mueven a los jóvenes a salir de su zona de confort y descubrir nuevas formas de ver el mundo.
+Y por último, Josefa, una señora que utiliza la aplicación gracias a que sus nietos se la explican y le ayudan a entender un poco el mundo de las nuevas tecnologías. Gracias a ella, podemos ver que la app es sencilla e intuitiva. Con ella, Josefa descubre museos, exposiciones y monumentos espectaculares de todos los lugares que quiere visitar. 
+	Esta experiencia la consideramos menos habitual dado que las personas de su edad están menos relacionadas con las nuevas tecnologías y el uso de internet.
 
 >>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
 
@@ -62,14 +75,12 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
 
+| Interesante<br>La página de inicio es clara e intuitiva.<br>Diversidad a la hora de buscar destinos o lugares concretos.<br>Información exhaustiva sobre los destinos. <br>Es gratuita.<br>Perfil de red social. | Críticas.   <br>No poder contactar con la gente de manera sencilla.<br>Una opción de ayuda al cliente.<br>No se pueden cambiar las fotos de portada de los viajes.<br>Búsqueda mejorable (adolece de falta de localizaciones).<br>Se echa en falta poder añadir una descripción por cada fotografía. |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Preguntas.<br>¿Puedo contactar con gente para viajar?<br>¿Puedo contactar con alguien de soporte para que me ayude?<br>¿Puedo buscar un barrio concreto de una ciudad?<br>¿No hay más modos de edición?          | Nuevas ideas.<br>Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil.<br>Implementar una plataforma y/o pasarela para la adquisición del viaje.<br>Subir, además de fotografías, vídeos.                                                                                     |
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-  
-  
 >>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
 >>> Problema e hipótesis
 >>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
@@ -77,13 +88,17 @@ Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del con
 
 ![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
 -----
+Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no logueados. Tras un análisis de la funcionalidad de la aplicación, llegamos a la conclusión de que las actividades permitidas a un usuario previamente registrado no varían de forma significativa en función de si pertenece a un grupo social concreto ni es discriminante por edad. Con lo cual vamos a agrupar a los usuarios en “logueados” y “no logueados”.
+
+[Dani añade tabla] 
 
 >>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c Labelling 
 ----
-
+El sitio web se divide en tres grandes ramas: una zona para la búsqueda de destinos así como información relativa a ellos, una zona para la gestión y desarrollo de los viajes (realización y búsqueda de usuarios) y una última zona asociada al perfil propio del usuario en la aplicación donde éste puede gestionar su actividad en el sitio.
+Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visualizan los últimos viajes/rutas creadas por usuarios y/o los más populares.
 
 >>> Identificar términos para diálogo con usuario  
 
