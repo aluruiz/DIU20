@@ -50,7 +50,7 @@ Tambien nos ha ayudado a elegir los colores la pagina propia de Material Design,
 
 ## Historia en Video del UX Case Study
 
-[Completar con video]
+[Enlace al vídeo en Google Drive](https://drive.google.com/file/d/1HR_GyQz2qFpyJIWw5UvatVeBOuVhOwNY/view)
 
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 Ha sido de gran utilidad analizar los pasos seguidos por otros desarrolladores para el diseño de una aplicación, tal y como estamos haciendo nosotros. Se explica de una manera muy clara, con un lenguaje sencillo y con imágenes que ayudan mucho a plasmar las ideas que han ido desarrollando a lo largo de las etapas del diseño. Gracias a este caso y por analogía, nos ha servido para comprender mejor qué estamos haciendo y porqué.
