@@ -8,7 +8,7 @@ Proyecto:
 
 * Nombre de la aplicación: Share to Fly 
 * Descripción: Aplicación social de viajes compartidos 
-* Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+* Logotipo: ![Modelo](https://github.com/aluruiz/DIU20/blob/master/P3/img/logo.png)
 
 Miembros
  * :bust_in_silhouette:  Daniel Matilla Bastero     [:octocat:](https://github.com/Cadiducho)
@@ -143,8 +143,18 @@ Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visua
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
+A continuación, os mostraremos los bocetos para nuestra aplicacion. 
+En principio los bocetos estan realizados para una aplicacion web, ya que hemos pensado que a la hora de realizar "compras" y visualizar los viajes es mejor en un ambiente web.
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Lo que hemos priorizado es que en pantalla siempre se muestren viajes o destinos, de tal forma que se capte cual es la idea principal de la aplicación, en ella se podran ver destinos mas buscados ultimamente o aquellos que se ajusten a tus gustos.
+
+A partir de ese momento, tenemos la opcion de búsqueda, donde los usuarios podran buscar cualquier viaje a realizar o ideas para posible destino mediante las opciones que expecificamos, aclarar que solo es necesario rellenar una opción para la busqueda o una mezcla de varias, según la precisión que se quiera encontrar a la hora de realizar la busqueda.
+
+En una segunda parte tenemos tanto el perfil, donde salen la imagenes compartidas y los viajes realizados (los cuales colgamos en un mapa con localizaciones) o a realizar, así como la opción de agregar un nuevo viaje, puede ser uno que ya hayas realizado o que buscas realizar y que se una más gente. 
+
+Por ultimo tenemos el menu de viajes, nos da la información sobre vuelos y/o alojamientos donde nos vamos a hospedar durante la estancia, asi como una lista de lugares que visitar con información sobre los mismos y en caso de sea con horario fijo el mismo (si son actividades que hay que reservar tambien habra una opcion para ver si se crea grupo o no). Y por ultimo una lista de los usuarios inscritos al viaje, para poder ir conociendo a las personas y hablar con ellas. 
+
+Aclarar que los bocetos son facilmente adaptables para una opción de aplicación Android, de tal forma que si fuese necesario realizarla se podria hacer sin muchas dificultades.
 
 ![](https://i.imgur.com/KeIVZWZ.jpg)
 
