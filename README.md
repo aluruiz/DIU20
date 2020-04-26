@@ -72,7 +72,7 @@ Esta experiencia la consideramos menos habitual dado que las personas de su edad
 ----
 Para crear una propuesta de valor, nos centramos en analizar primero la aplicación elegida (Passporter). Para ello, realizamos una usability review de la misma, que nos va a permitir ver más claramente los puntos fuertes y débiles de la misma.
 
-![xd](P1/Revision_de_Usabilidad.pdf)
+![:supportcat:](P1/Revision_de_Usabilidad.pdf)
 
 ## Paso 2. UX Design  
 
