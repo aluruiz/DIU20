@@ -4,11 +4,11 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 Grupo: DIU1_1SHOT.  Curso: 2019/20 
 
 Proyecto: 
->>> Share to Fly 
+>>> * :bust_in_silhouette: Nombre de la aplicación: Share to Fly 
 Descripción: 
->>> Aplicación social de viajes compartidos 
+>>> * :bust_in_silhouette:  Aplicación social de viajes compartidos 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> * :bust_in_silhouette:  Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:  Daniel Matilla Bastero     [:octocat:](https://github.com/Cadiducho)
@@ -20,8 +20,9 @@ Miembros
 # Proceso de Diseño 
 
 ## Introducción
------
 Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, la cuales son un tipo de aplicación que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online y de la que ya teníamos alguna experiencia previa, no tanto de uso como de conocimiento de su existencia y funcionamiento primario.
+
+-----
 
 ## UX Desk Research & Analisis 
 
