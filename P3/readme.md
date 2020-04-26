@@ -22,8 +22,6 @@ Para concluir, se detalla la guía de estilo de la aplicación al igual que hemo
 ## Propuesta de elementos de diseño o patrones a usar 
 Se ha elegido Material Design como patrón base para nuestra aplicación web, nuestra elección viene dada por la claridad de la interfaz y la facilidad de uso de la misma.
 
-En el apartado de la tipografía hemos escogido la fuente Baloo Tamma2 para los títulos y cabeceras, mientras que Open Sans Open Sans para el resto del texto a mostrar.  De manera suplementaria, para iconos, se implementarán los propios iconos diseñados por Material Design pues son los que mejor complementan con el resto de guías de diseño de la aplicación web.
-
 Para los bocetos de alta definición, la navegación superior puede ser resuelta con los layout que propone Material Design, implementando un icono en el extremo superior izquierdo y posteriores enlaces directos una vez está el usuario iniciado sesión, o un inline form para iniciar sesión en la plataforma si este aún no lo ha hecho.
 
 La aplicación de las cards de este patrón se acoplan perfectamente a la solución buscada, pues se puede colocar de una manera elegante una imagen del destino del viaje, con una pequeña descripción y un enlace para más detalles.
@@ -34,9 +32,17 @@ Para los perfiles de usuarios, las imágenes circulares sobre una imagen de cabe
 
 Material Design implementa una solución simple y fácil de entender para los usuarios a la hora de seleccionar fechas en un calendario de manera visual, solución que viene perfecta para nuestra página de búsqueda.
 
-Por último, un fat footer como el de nuestro boceto original puede ser implementado correctamente con los estilos web de Material Design, lugar donde se podrán acceder a diferentes secciones, enlaces legales o de contacto y cambiar el idioma entre varias opciones.
+Un fat footer como el de nuestro boceto original puede ser implementado correctamente con los estilos web de Material Design, lugar donde se podrán acceder a diferentes secciones, enlaces legales o de contacto y cambiar el idioma entre varias opciones.
 
-[Completar parte de colores]
+En el apartado de la tipografía hemos escogido la fuente Baloo Tamma2 para los títulos y cabeceras, mientras que Open Sans Open Sans para el resto del texto a mostrar. De manera suplementaria, para iconos, se implementarán los propios iconos diseñados por Material Design pues son los que mejor complementan con el resto de guías de diseño de la aplicación web.
+
+[Imagen de la tipografía]
+
+Y por ultimo, a continuación mostraremos los colores elegidos para nuestra aplicación, hemos buscado colores complementarios, para poder destacar claramente el mensaje a nuestro público, para ello utilizamos la tecnica calido-frio, y así dejar más claro las cosas importantes. Ademas, hemos escogido estos colores porque son una muestra de energia, confianza y serenidad, para que nuestros usuarios esten comodos usandola y se fien de la misma. 
+
+Tambien nos ha ayudado a elegir los colores la pagina propia de Material Design, pues tiene un editor propio con un apartado de accesibilidad, que nos muestra la calidad de visual de nuestros colores para las personas con discapacidad. Esta es otra de las razones por la cual nuestra eleccion de colores son los complementarios, para que quede claro para aquellas personas con problemas de visión.
+
+[Imagen de los colores]
 
 ## Historia en Video del UX Case Study
 
@@ -45,7 +51,7 @@ Por último, un fat footer como el de nuestro boceto original puede ser implemen
 ## Documentación. Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
 Ha sido de gran utilidad analizar los pasos seguidos por otros desarrolladores para el diseño de una aplicación, tal y como estamos haciendo nosotros. Se explica de una manera muy clara, con un lenguaje sencillo y con imágenes que ayudan mucho a plasmar las ideas que han ido desarrollando a lo largo de las etapas del diseño. Gracias a este caso y por analogía, nos ha servido para comprender mejor qué estamos haciendo y porqué.
 
-[Completar parte de diseño]
+La parte de buscar patrones y propuestas de elementos de diseño ha sido una parte muy interesante e igualmente difícil, aunque nos ha hecho aprender lo importante que es la sencillez y la accesibilidad de una web o aplicación. Además, hemos visto la infinidad de opciones que hay y todos los fallos que nos pueden ocurrir, nos ha hecho coger perspectiva de lo que es una buena base de front end y la necesidad de adaptarla a los visitantes.
 
 De cara a la organización del repositorio, hemos de decir que ahora está organizado de una forma que permite ver de manera global los pasos que se han ido siguiendo y nos parece acertado.
 
