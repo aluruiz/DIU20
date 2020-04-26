@@ -5,9 +5,10 @@ Grupo: DIU1_1SHOT.  Curso: 2019/20
 
 Proyecto:
 -----
-Nombre de la aplicación: Share to Fly 
-Descripción: Aplicación social de viajes compartidos 
-Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+* Nombre de la aplicación: Share to Fly 
+* Descripción: Aplicación social de viajes compartidos 
+* Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:  Daniel Matilla Bastero     [:octocat:](https://github.com/Cadiducho)
@@ -69,12 +70,9 @@ Esta experiencia la consideramos menos habitual dado que las personas de su edad
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Para crear una propuesta de valor, nos centramos en analizar primero la aplicación elegida (Passporter). Para ello, realizamos una usability review de la misma, que nos va a permitir ver más claramente los puntos fuertes y débiles de la misma.
 
+![](P1/Revision_de_Usabilidad.pdf)
 
 ## Paso 2. UX Design  
 
