@@ -151,9 +151,9 @@ Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visua
 | Contacto                                                                    | Se ofrece un formulario para contactar con el administrador del lugar en caso de duda y/o problema relacionado con el sitio web.                                                                                                                                                                                                                                                                                |
 
 
-![Método UX](img/Wireframes.png) 2.d Wireframes
+![Método UX](img/Wireframes.png) Wireframes
 -----
-A continuación, os mostraremos los bocetos para nuestra aplicacion. 
+Pasamos a plasmar en bocetos nuestra aplicacion. 
 En principio los bocetos estan realizados para una aplicacion web, ya que hemos pensado que a la hora de realizar "compras" y visualizar los viajes es mejor en un ambiente web.
 
 Lo que hemos priorizado es que en pantalla siempre se muestren viajes o destinos, de tal forma que se capte cual es la idea principal de la aplicación, en ella se podran ver destinos mas buscados ultimamente o aquellos que se ajusten a tus gustos.
