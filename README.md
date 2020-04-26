@@ -19,7 +19,9 @@ Miembros
 # Proceso de Diseño 
 
 ## Introducción
-Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, la cuales son un tipo de aplicación que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online y de la que ya teníamos alguna experiencia previa, no tanto de uso como de conocimiento de su existencia y funcionamiento primario.
+Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, las cuales son un tipo de aplicación que se está haciendo viral.
+
+En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online y de la que ya teníamos alguna experiencia previa, no tanto de uso como de conocimiento de su existencia y funcionamiento primario. Pretendemos realizar una propuesta de valor sobre esa aplicación y crear una nueva, llamada Share to Fly que, manteniendo el carácter de red social de Passporter aúne la posibilidad de gestionar también los viajes y rutas de los usuarios para ser compartidos.
 
 -----
 
@@ -31,6 +33,11 @@ Otra opción estudiada ha sido Travello, una aplicación de eminente carácter s
 
 Por último, Amovens es una aplicación que cuenta tanto con soporte móvil como web y que está enfocada a compartir gastos de desplazamientos entre ciudades, generalmente nacionales. Es una aplicación de carácter práctico, sobria y que prioriza la usabilidad por encima del aspecto visual. Carece del aspecto de red social que sí gozan las anteriores, aunque permite la interacción con usuarios para obtener información del trayecto.
 
+User Reseach
+-----
+En la práctica no se iban a realizar entrevistas con usuarios reales, con lo cual prescindimos de los mapas de empatía y de afinidad y pasamos a directamente a la creación de dos usuarios ficticios que podrían ser dos potenciales usuarios de la aplicación.
+
+* xd
 
 ![Método UX](img/Persona.png) User Personas
 -----
