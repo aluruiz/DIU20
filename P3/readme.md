@@ -22,21 +22,24 @@ Para concluir, se detalla la guía de estilo de la aplicación al igual que hemo
 ## Propuesta de elementos de diseño o patrones a usar 
 Se ha elegido Material Design como patrón base para nuestra aplicación web, nuestra elección viene dada por la claridad de la interfaz y la facilidad de uso de la misma.
 
-Para los bocetos de alta definición, la navegación superior puede ser resuelta con los layout que propone Material Design, implementando un icono en el extremo superior izquierdo y posteriores enlaces directos una vez está el usuario iniciado sesión, o un inline form para iniciar sesión en la plataforma si este aún no lo ha hecho.
+Para los bocetos de alta definición, la navegación superior puede ser resuelta con los [layout](https://getmdl.io/components/index.html#layout-section/layout) que propone Material Design, implementando un icono en el extremo superior izquierdo y posteriores enlaces directos una vez está el usuario iniciado sesión, o un inline form para iniciar sesión en la plataforma si este aún no lo ha hecho.
 
-La aplicación de las cards de este patrón se acoplan perfectamente a la solución buscada, pues se puede colocar de una manera elegante una imagen del destino del viaje, con una pequeña descripción y un enlace para más detalles.
+La aplicación de las [cards](https://material.io/components/cards#anatomy) de este patrón se acoplan perfectamente a la solución buscada, pues se puede colocar de una manera elegante una imagen del destino del viaje, con una pequeña descripción y un enlace para más detalles.
 
-Las tabs de este patrón son una buena solución para el problema de repartir la información del destino sin sobrecargar de texto una vista principal, pudiendo acceder a más detalles como usuarios inscritos al viaje.
+Las [tabs](https://material.io/components/tabs/) de este patrón son una buena solución para el problema de repartir la información del destino sin sobrecargar de texto una vista principal, pudiendo acceder a más detalles como usuarios inscritos al viaje.
 
 Para los perfiles de usuarios, las imágenes circulares sobre una imagen de cabecera se adaptan perfectamente al boceto propuesto.
 
-Material Design implementa una solución simple y fácil de entender para los usuarios a la hora de seleccionar fechas en un calendario de manera visual, solución que viene perfecta para nuestra página de búsqueda.
+Material Design implementa una solución simple y fácil de entender para los usuarios a la hora de seleccionar [fechas](https://material.io/components/pickers#anatomy) en un calendario de manera visual, solución que viene perfecta para nuestra página de búsqueda.
 
-Un fat footer como el de nuestro boceto original puede ser implementado correctamente con los estilos web de Material Design, lugar donde se podrán acceder a diferentes secciones, enlaces legales o de contacto y cambiar el idioma entre varias opciones.
+Un [fat footer](https://getmdl.io/components/index.html#layout-section/footer) como el de nuestro boceto original puede ser implementado correctamente con los estilos web de Material Design, lugar donde se podrán acceder a diferentes secciones, enlaces legales o de contacto y cambiar el idioma entre varias opciones.
 
-En el apartado de la tipografía hemos escogido la fuente Baloo Tamma2 para los títulos y cabeceras, mientras que Open Sans Open Sans para el resto del texto a mostrar. De manera suplementaria, para iconos, se implementarán los propios iconos diseñados por Material Design pues son los que mejor complementan con el resto de guías de diseño de la aplicación web.
+En el apartado de la tipografía hemos escogido la fuente [Baloo Tamma2](https://fonts.google.com/specimen/Baloo+Tamma+2) para los títulos y cabeceras, mientras que [Open Sans](https://fonts.google.com/specimen/Open+Sans) para el resto del texto a mostrar. De manera suplementaria, para iconos, se implementarán los propios iconos diseñados por Material Design pues son los que mejor complementan con el resto de guías de diseño de la aplicación web.
 
+##### Baloo Tamma2
 ![](https://github.com/aluruiz/DIU20/blob/master/P3/img/BalooTamma2.png)
+
+##### Open Sans
 ![](https://github.com/aluruiz/DIU20/blob/master/P3/img/OpenSans.png)
 
 Y por ultimo, a continuación mostraremos los colores elegidos para nuestra aplicación, hemos buscado colores complementarios, para poder destacar claramente el mensaje a nuestro público, para ello utilizamos la tecnica calido-frio, y así dejar más claro las cosas importantes. Ademas, hemos escogido estos colores porque son una muestra de energia, confianza y serenidad, para que nuestros usuarios esten comodos usandola y se fien de la misma. 
