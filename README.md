@@ -74,7 +74,17 @@ Para crear una propuesta de valor, nos centramos en analizar primero la aplicaci
 
 [Enlace al pdf de la Usability Review](P1/Revision_de_Usabilidad.pdf)
 
-Como conclusiones, obtenemos una valoración de 74 (buena)
+Como conclusiones, obtenemos una valoración de 76 (Good).
+
+La aplicación elegida es bastante simple e intuitiva para que cualquiera pueda aprender a usarla. Aunque le faltan algunas opciones como tutoriales de iniciación o ayuda.
+
+Caben destacar algunos errores menores relacionados con la interacción con el usuario, como una traducción al idioma propio no tan buena como debería, no proporcionar una situación clara de dónde se encuentra el usuario en cada momento o la dificultad para ponerse en contacto en caso de error en la aplicación. 
+
+Aparte existen errores a la hora del traspaso de la aplicación móvil a la web, en ese ámbito se ve muy recortada en sus funciones. Ofrece un registro mediante cuenta de Google que no es extensible a su versión web. Además, la recuperación de contraseña sólo es posible en la aplicación móvil, igual que las distintas opciones a la hora de la búsqueda. 
+
+El diseño está enfocado al de una red social, lo cual puede dificultar el uso a personas que no estén familiarizadas con ellas, aunque el proceso de adaptación no debería ser muy duro.
+
+Pero a la hora de la verdad, la aplicación móvil cumple con lo que se le pide, por ello no se le puede dar una mala valoración, ya que la parte útil de usabilidad es relativamente buena y sirve para, como hemos visto en los mapas de uso, obtener la información sobre los distintos sitios que buscamos así como fotografías sobre los mismos.
 
 ## Diseño UX 
 
