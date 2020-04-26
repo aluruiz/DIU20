@@ -72,17 +72,16 @@ Esta experiencia la consideramos menos habitual dado que las personas de su edad
 ----
 Para crear una propuesta de valor, nos centramos en analizar primero la aplicación elegida (Passporter). Para ello, realizamos una usability review de la misma, que nos va a permitir ver más claramente los puntos fuertes y débiles de la misma.
 
-![:supportcat:](P1/Revision_de_Usabilidad.pdf)
+[Enlace al pdf de la Usability Review](P1/Revision_de_Usabilidad.pdf)
+
+Como conclusiones, obtenemos una valoración de 74 (buena)
 
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) Feedback Capture Grid
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
+Pasamos a concretar una malla receptora de información de acuerdo a los datos recabados y a nuestra propia experiencia. La matriz se divide en cuatro apartados: puntos fuertes de la aplicación, puntos que mejorar, preguntas que se pueden hacer nuestros usuarios a partir de la experiencia obtenida y por último ideas que aportar como propuestas a la nueva aplicación.
 
 | Interesante/relevante                                        | Críticas constructivas                                                      |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -99,12 +98,9 @@ A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro 
 | ¿Puedo buscar un barrio concreto de una ciudad?              | Subir, además de fotografías, videos                                        |
 | ¿No hay modos de edición?                                    |                                                                             |
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.png) Tasks & Sitemap 
 -----
 Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no logueados. Tras un análisis de la funcionalidad de la aplicación, llegamos a la conclusión de que las actividades permitidas a un usuario previamente registrado no varían de forma significativa en función de si pertenece a un grupo social concreto ni es discriminante por edad. Con lo cual vamos a agrupar a los usuarios en “logueados” y “no logueados”.
 
