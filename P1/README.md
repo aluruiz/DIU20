@@ -3,11 +3,13 @@
 
 Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, la cuales son un tipo de aplicación que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online y de la que ya teníamos alguna experiencia previa, no tanto de uso como de conocimiento de su existencia y funcionamiento primario.
 
-En la mesa había más opciones, como Showaround, una aplicación que más que realizar viajes desde el punto de vista de la economía compartida, se basa en la búsqueda de un guía local que ayude a los usuarios a ver/conocer la ciudad durante su estancia. Permite la interacción entre usuarios tanto para buscar guía como para ofrecerse y la creación de rutas y viajes.
+En la mesa había más opciones, como Showaround, una aplicación que más que realizar viajes desde el punto de vista de la economía compartida, se basa en la búsqueda de un guía local que ayude a los usuarios a ver/conocer la ciudad durante su estancia. Permite la interacción entre usuarios tanto para buscar guía como para ofrecerse y la creación de rutas y viajes. No ofrece un soporte como tal para la organización de viajes, es un trabajo que queda para el usuario.
 
-[Añadir comparaciones que faltan] 
+Otra opción estudiada ha sido Travello, una aplicación de eminente carácter social (tiene un asombroso parecido con redes sociales como Instagram), donde cada usuario puede subir sus fotografías y comentarios de sus viajes. Cuenta con numerosas opciones de búsqueda aunque en nuestro caso consideramos que no excesivamente fáciles o intuitivas de usar. Como “red social de viajes” permite la interacción entre usuarios, aunque también percibimos la existencia de numerosos “perfiles falsos”. Cuenta con un único idioma, el inglés, lo cual puede ser un aspecto negativo en función del usuario.
 
-#### 2 Personas
+Por último, Amovens es una aplicación que cuenta tanto con soporte móvil como web y que está enfocada a compartir gastos de desplazamientos entre ciudades, generalmente nacionales. Es una aplicación de carácter práctico, sobria y que prioriza la usabilidad por encima del aspecto visual. Carece del aspecto de red social que sí gozan las anteriores, aunque permite la interacción con usuarios para obtener información del trayecto.
+
+### 2 Personas
 
 Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
 
@@ -19,7 +21,7 @@ Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un peque
 
 ![Ficha de Josefa](https://github.com/aluruiz/DIU20/blob/master/P1/UX/Josefa_PersonaTemplate.png)
 
-#### 2 User Journey Map  ( 1 por persona)
+### 2 User Journey Map  ( 1 por persona)
 
 En primer lugar tenemos la experiencia de un chico joven, que ha vivido prácticamente en la era de la tecnología, y nuestra aplicación le ayuda más a revisar las cosas básicas de cada ciudad o país que busca visitar, tales como lo que cuesta vivir allí, las salidas nocturnas, los sitios de interés… etc.
 
@@ -29,7 +31,7 @@ Y por último, Josefa, una señora que utiliza la aplicación gracias a que sus 
 
 - Esta experiencia la consideramos menos habitual dado que las personas de su edad están menos relacionadas con las nuevas tecnologías y el uso de internet.
 
-#### Revisión de Usabilidad 
+### Revisión de Usabilidad 
 
 Enlace al documento:
 https://github.com/aluruiz/DIU20/blob/master/P1/Usability-review-template.xlsx
