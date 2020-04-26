@@ -37,11 +37,15 @@ User Reseach
 -----
 En la práctica no se iban a realizar entrevistas con usuarios reales, con lo cual prescindimos de los mapas de empatía y de afinidad y pasamos a directamente a la creación de dos usuarios ficticios que podrían ser dos potenciales usuarios de la aplicación.
 
-* xd
+Sin embargo, y antes de crear estos usuarios ficticios, asumimos ciertas necesidades que podrían tener:
+>>> 	* En general, a la mayoría de la gente le gusta viajar
+	* Un gran número de usuarios está familiarizado con una interfaz de red social
+	* Dichos usuarios esperan tener un cierto grado de personalización dentro de la aplicación
+	* Aparte de compatir sus experiencias, también desean interactuar con otros usuarios, bien para conocer detalles acerca del destino o bien para compartir el viaje o parte del trayecto.
 
 ![Método UX](img/Persona.png) User Personas
 -----
-Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
+Bajo esas premisas, creamos las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
 Por una parte tenemos a Manuel Ortiz, un chico joven y emprendedor que busca nuevas metas en su vida, tanto laborales como sociales. Para ello busca observar nuevos ámbitos donde poder tener un cambio de aires.
 
 ![](P1/UX/Manuel_PersonaTemplate.png)
