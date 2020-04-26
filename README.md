@@ -39,18 +39,21 @@ Por una parte tenemos a Manuel Ortiz, un chico joven y emprendedor que busca nue
 
 ![](P1/UX/Manuel_PersonaTemplate.png)
 
-Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un pequeño pueblo de León, que ahora que tiene tiempo libre quiere aprovechar al máximo sus oportunidades y cumplir su sueño.
+Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un pequeño pueblo de León, que ahora que tiene tiempo libre quiere aprovechar al máximo sus oportunidades y cumplir un viejo anhelo, viajar a Italia.
 
 ![](P1/UX/Josefa_PersonaTemplate.png)
 
-![Método UX](img/JourneyMap.png) 1.c User Journey Map
+![Método UX](img/JourneyMap.png) Users Journey Map
 ----
-En primer lugar tenemos la experiencia de un chico joven, que ha vivido prácticamente en la era de la tecnología, y nuestra aplicación le ayuda más a revisar las cosas básicas de cada ciudad o país que busca visitar, tales como lo que cuesta vivir allí, las salidas nocturnas, los sitios de interés… etc.
-	Este caso creemos que es de los más comunes, ya que todos los estudiantes, una vez terminada la carrera, buscan salir al mundo y cambiar de aires. La búsqueda de una independencia económica es una de las razones que más mueven a los jóvenes a salir de su zona de confort y descubrir nuevas formas de ver el mundo.
-Y por último, Josefa, una señora que utiliza la aplicación gracias a que sus nietos se la explican y le ayudan a entender un poco el mundo de las nuevas tecnologías. Gracias a ella, podemos ver que la app es sencilla e intuitiva. Con ella, Josefa descubre museos, exposiciones y monumentos espectaculares de todos los lugares que quiere visitar. 
-	Esta experiencia la consideramos menos habitual dado que las personas de su edad están menos relacionadas con las nuevas tecnologías y el uso de internet.
+En primer lugar tenemos la experiencia de un chico joven, que ha vivido prácticamente en la era de la tecnología, y nuestra aplicación le ayuda más a revisar las cosas básicas de cada ciudad o país que busca visitar, tales como lo que cuesta vivir allí, las salidas nocturnas, los sitios de interés… etc. Creemos que este caso es de los más comunes, ya que todos los estudiantes, una vez terminada la carrera, buscan salir al mundo y cambiar de aires. La búsqueda de una independencia económica es una de las razones que más mueven a los jóvenes a salir de su zona de confort y descubrir nuevas formas de ver el mundo.
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+![](P1/UX/Manuel_JourneyTemplate.png)
+
+Y por último, Josefa, una señora que utiliza la aplicación gracias a que sus nietos se la explican y le ayudan a entender un poco el mundo de las nuevas tecnologías. Gracias a ella, podemos ver que la app es sencilla e intuitiva. Con ella, Josefa descubre museos, exposiciones y monumentos espectaculares de todos los lugares que quiere visitar. 
+
+Esta experiencia la consideramos menos habitual dado que las personas de su edad están menos relacionadas con las nuevas tecnologías y el uso de internet.
+	
+![](P1/UX/Josefa_JourneyTemplate.png)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
