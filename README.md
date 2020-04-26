@@ -3,8 +3,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 
 Grupo: DIU1_1SHOT.  Curso: 2019/20 
 
-Proyecto: 
->>> Nombre de la aplicación: Share to Fly 
+Proyecto:
+-----
+Nombre de la aplicación: Share to Fly 
 Descripción: Aplicación social de viajes compartidos 
 Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
@@ -22,8 +23,6 @@ Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, l
 
 -----
 
-## UX Desk Research & Analisis 
-
 ![Método UX](img/Competitive.png) Competitive Analysis
 ----- 
 En la mesa había más opciones, como Showaround, una aplicación que más que realizar viajes desde el punto de vista de la economía compartida, se basa en la búsqueda de un guía local que ayude a los usuarios a ver/conocer la ciudad durante su estancia. Permite la interacción entre usuarios tanto para buscar guía como para ofrecerse y la creación de rutas y viajes. No ofrece un soporte como tal para la organización de viajes, es un trabajo que queda para el usuario.
@@ -33,16 +32,16 @@ Otra opción estudiada ha sido Travello, una aplicación de eminente carácter s
 Por último, Amovens es una aplicación que cuenta tanto con soporte móvil como web y que está enfocada a compartir gastos de desplazamientos entre ciudades, generalmente nacionales. Es una aplicación de carácter práctico, sobria y que prioriza la usabilidad por encima del aspecto visual. Carece del aspecto de red social que sí gozan las anteriores, aunque permite la interacción con usuarios para obtener información del trayecto.
 
 
-![Método UX](img/Persona.png) 1.b Persona
+![Método UX](img/Persona.png) User Personas
 -----
 Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
 Por una parte tenemos a Manuel Ortiz, un chico joven y emprendedor que busca nuevas metas en su vida, tanto laborales como sociales. Para ello busca observar nuevos ámbitos donde poder tener un cambio de aires.
 
-(Imagen Manuel Ortiz)
+(P1/UX/Manuel_PersonaTemplate.png)
 
 Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un pequeño pueblo de León, que ahora que tiene tiempo libre quiere aprovechar al máximo sus oportunidades y cumplir su sueño.
 
-(Imagen Josefa)
+(P1/UX/Josefa_PersonaTemplate.png)
 
 >>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
 
