@@ -4,9 +4,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 Grupo: DIU1_1SHOT.  Curso: 2019/20 
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Share to Fly 
 Descripción: 
->>> Describa la idea de su producto en la práctica 2 
+>>> Aplicación social de viajes compartidos 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
@@ -17,24 +17,22 @@ Miembros
 
 ----- 
 
->>> En esta práctica estudiaremos un caso de plataforma de economía colaborativa y realizaremos una propuesta para su diseño Web/movil. Utilizaremos herramientas y entregables descritos en el siguiente CheckList (https://github.com/mgea/UX-DIU-Checklist) Elimine este texto desde la práctica 1
-
-
-Qué es economia colaborativa: Martínez-Polo, J. (2019). **El fenómeno del consumo colaborativo: del intercambio de bienes y servicios a la economía de las plataformas**, *Sphera Publica, 1*(19), 24-46. http://sphera.ucam.edu/index.php/sphera-01/article/view/363/14141434
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
-## Paso 1. UX Desk Research & Analisis 
+## Introducción
+-----
+Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, la cuales son un tipo de aplicación que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online y de la que ya teníamos alguna experiencia previa, no tanto de uso como de conocimiento de su existencia y funcionamiento primario.
 
-![Método UX](img/Competitive.png) 1.a Competitive Analysis
+## UX Desk Research & Analisis 
+
+![Método UX](img/Competitive.png) Competitive Analysis
 ----- 
-(REHACER)
-Nuestras aplicaciones asignadas han sido aquellas que tratan sobre compartir viajes, son un tipo de app que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online.
+En la mesa había más opciones, como Showaround, una aplicación que más que realizar viajes desde el punto de vista de la economía compartida, se basa en la búsqueda de un guía local que ayude a los usuarios a ver/conocer la ciudad durante su estancia. Permite la interacción entre usuarios tanto para buscar guía como para ofrecerse y la creación de rutas y viajes. No ofrece un soporte como tal para la organización de viajes, es un trabajo que queda para el usuario.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+Otra opción estudiada ha sido Travello, una aplicación de eminente carácter social (tiene un asombroso parecido con redes sociales como Instagram), donde cada usuario puede subir sus fotografías y comentarios de sus viajes. Cuenta con numerosas opciones de búsqueda aunque en nuestro caso consideramos que no excesivamente fáciles o intuitivas de usar. Como “red social de viajes” permite la interacción entre usuarios, aunque también percibimos la existencia de numerosos “perfiles falsos”. Cuenta con un único idioma, el inglés, lo cual puede ser un aspecto negativo en función del usuario.
+
+Por último, Amovens es una aplicación que cuenta tanto con soporte móvil como web y que está enfocada a compartir gastos de desplazamientos entre ciudades, generalmente nacionales. Es una aplicación de carácter práctico, sobria y que prioriza la usabilidad por encima del aspecto visual. Carece del aspecto de red social que sí gozan las anteriores, aunque permite la interacción con usuarios para obtener información del trayecto.
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
