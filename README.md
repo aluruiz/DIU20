@@ -37,13 +37,11 @@ Por último, Amovens es una aplicación que cuenta tanto con soporte móvil como
 Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
 Por una parte tenemos a Manuel Ortiz, un chico joven y emprendedor que busca nuevas metas en su vida, tanto laborales como sociales. Para ello busca observar nuevos ámbitos donde poder tener un cambio de aires.
 
-[](P1/UX/Manuel_PersonaTemplate.png)
+![](P1/UX/Manuel_PersonaTemplate.png)
 
 Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un pequeño pueblo de León, que ahora que tiene tiempo libre quiere aprovechar al máximo sus oportunidades y cumplir su sueño.
 
-[](P1/UX/Josefa_PersonaTemplate.png)
-
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+![](P1/UX/Josefa_PersonaTemplate.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
