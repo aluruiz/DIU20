@@ -4,11 +4,9 @@ Prácticas Diseño Interfaces de Usuario 2019-20 (Economía Colaborativa)
 Grupo: DIU1_1SHOT.  Curso: 2019/20 
 
 Proyecto: 
->>> * :bust_in_silhouette: Nombre de la aplicación: Share to Fly 
-Descripción: 
->>> * :bust_in_silhouette:  Aplicación social de viajes compartidos 
-Logotipo: 
->>> * :bust_in_silhouette:  Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> Nombre de la aplicación: Share to Fly 
+Descripción: Aplicación social de viajes compartidos 
+Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:  Daniel Matilla Bastero     [:octocat:](https://github.com/Cadiducho)
