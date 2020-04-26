@@ -68,11 +68,11 @@ Esta experiencia la consideramos menos habitual dado que las personas de su edad
 	
 ![](P1/UX/Josefa_JourneyTemplate.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) Usability Review
 ----
 Para crear una propuesta de valor, nos centramos en analizar primero la aplicación elegida (Passporter). Para ello, realizamos una usability review de la misma, que nos va a permitir ver más claramente los puntos fuertes y débiles de la misma.
 
-![](P1/Revision_de_Usabilidad.pdf)
+![xd](P1/Revision_de_Usabilidad.pdf)
 
 ## Paso 2. UX Design  
 
