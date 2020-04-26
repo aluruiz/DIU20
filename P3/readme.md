@@ -36,13 +36,14 @@ Un fat footer como el de nuestro boceto original puede ser implementado correcta
 
 En el apartado de la tipografía hemos escogido la fuente Baloo Tamma2 para los títulos y cabeceras, mientras que Open Sans Open Sans para el resto del texto a mostrar. De manera suplementaria, para iconos, se implementarán los propios iconos diseñados por Material Design pues son los que mejor complementan con el resto de guías de diseño de la aplicación web.
 
-[Imagen de la tipografía]
+![](https://github.com/aluruiz/DIU20/blob/master/P3/img/BalooTamma2.png)
+![](https://github.com/aluruiz/DIU20/blob/master/P3/img/OpenSans.png)
 
 Y por ultimo, a continuación mostraremos los colores elegidos para nuestra aplicación, hemos buscado colores complementarios, para poder destacar claramente el mensaje a nuestro público, para ello utilizamos la tecnica calido-frio, y así dejar más claro las cosas importantes. Ademas, hemos escogido estos colores porque son una muestra de energia, confianza y serenidad, para que nuestros usuarios esten comodos usandola y se fien de la misma. 
 
 Tambien nos ha ayudado a elegir los colores la pagina propia de Material Design, pues tiene un editor propio con un apartado de accesibilidad, que nos muestra la calidad de visual de nuestros colores para las personas con discapacidad. Esta es otra de las razones por la cual nuestra eleccion de colores son los complementarios, para que quede claro para aquellas personas con problemas de visión.
 
-[Imagen de los colores]
+![](https://github.com/aluruiz/DIU20/blob/master/P3/img/Colores.jpg)
 
 ## Historia en Video del UX Case Study
 
