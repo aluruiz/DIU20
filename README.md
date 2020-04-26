@@ -9,6 +9,7 @@ Proyecto:
 * Nombre de la aplicación: Share to Fly 
 * Descripción: Aplicación social de viajes compartidos 
 * Logotipo: 
+
 ![Modelo](https://github.com/aluruiz/DIU20/blob/master/P3/img/logo.png)
 
 Miembros
