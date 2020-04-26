@@ -76,7 +76,7 @@ Para crear una propuesta de valor, nos centramos en analizar primero la aplicaci
 
 Como conclusiones, obtenemos una valoración de 74 (buena)
 
-## Paso 2. UX Design  
+## Diseño UX 
 
 
 ![Método UX](img/feedback-capture-grid.png) Feedback Capture Grid
@@ -93,14 +93,14 @@ Pasamos a concretar una malla receptora de información de acuerdo a los datos r
 
 | Preguntas a partir de la experiencia                                    | Nuevas ideas                                                      |
 |----------------------------------------------------------------|-------------------------------------------------------------------------------|
-| ¿Puedo contactar con gente para viajar?                      | Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil |
-| ¿Puedo contactar con alguien de soporte para que me ayude?   | Implementar una plataforma y/o pasarela para la adquisición del viaje       |
-| ¿Puedo buscar un barrio concreto de una ciudad?              | Subir, además de fotografías, videos                                        |
-| ¿No hay modos de edición?                                    |                                                                             |
+| ¿Puedo contactar con gente para viajar?                        | Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil |
+| ¿Puedo contactar con alguien de soporte para que me ayude?     | Implementar una plataforma y/o pasarela para la adquisición del viaje       |
+| ¿Puedo buscar un barrio concreto de una ciudad?                | Subir, además de fotografías, videos                                        |
+| ¿No hay modos de edición?                                      |                                                                             |
 
 A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
 
-![Método UX](img/Sitemap.png) Tasks & Sitemap 
+![Método UX](img/Sitemap.png) Tasks
 -----
 Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no logueados. Tras un análisis de la funcionalidad de la aplicación, llegamos a la conclusión de que las actividades permitidas a un usuario previamente registrado no varían de forma significativa en función de si pertenece a un grupo social concreto ni es discriminante por edad. Con lo cual vamos a agrupar a los usuarios en “logueados” y “no logueados”.
 
@@ -116,16 +116,12 @@ Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no lo
 | Eliminar un viaje del perfil                               | Medio            | -                   |
 | Apuntarse/darse de baja a/de un viaje                      | Alto             | -                   |
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
-![Método UX](img/labelling.png) 2.c Labelling 
+![Método UX](img/labelling.png) Labelling and Site Map
 ----
 ![Diseño](https://i.imgur.com/QFgAdEe.png)
+
 El sitio web se divide en tres grandes ramas: una zona para la búsqueda de destinos así como información relativa a ellos, una zona para la gestión y desarrollo de los viajes (realización y búsqueda de usuarios) y una última zona asociada al perfil propio del usuario en la aplicación donde éste puede gestionar su actividad en el sitio.
 Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visualizan los últimos viajes/rutas creadas por usuarios y/o los más populares.
-
->>> Identificar términos para diálogo con usuario  
 
 | Label                                                                       | Scope Note                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
