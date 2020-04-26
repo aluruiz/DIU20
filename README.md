@@ -104,6 +104,8 @@ A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro 
 -----
 Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no logueados. Tras un análisis de la funcionalidad de la aplicación, llegamos a la conclusión de que las actividades permitidas a un usuario previamente registrado no varían de forma significativa en función de si pertenece a un grupo social concreto ni es discriminante por edad. Con lo cual vamos a agrupar a los usuarios en “logueados” y “no logueados”.
 
+Las principales funcionalidades de la aplicación se van a centrar en cariz social, la personalización del perfil del usuario así como su contenido, las búsquedas de destinos y el contacto con otros usuarios para gestionar rutas y viajes.
+
 |                                                            | Usuario logueado | Usuario no logueado |
 |------------------------------------------------------------|------------------|---------------------|
 | Cambiar el idioma                                          | Medio            | Medio               |
