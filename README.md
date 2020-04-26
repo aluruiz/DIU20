@@ -5,9 +5,10 @@ Grupo: DIU1_1SHOT.  Curso: 2019/20
 
 Proyecto:
 -----
-Nombre de la aplicación: Share to Fly 
-Descripción: Aplicación social de viajes compartidos 
-Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+
+* Nombre de la aplicación: Share to Fly 
+* Descripción: Aplicación social de viajes compartidos 
+* Logotipo: Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:  Daniel Matilla Bastero     [:octocat:](https://github.com/Cadiducho)
@@ -37,11 +38,16 @@ User Reseach
 -----
 En la práctica no se iban a realizar entrevistas con usuarios reales, con lo cual prescindimos de los mapas de empatía y de afinidad y pasamos a directamente a la creación de dos usuarios ficticios que podrían ser dos potenciales usuarios de la aplicación.
 
-* xd
+Sin embargo, y antes de crear estos usuarios ficticios, asumimos ciertas necesidades que podrían tener:
+
+ 	* En general, a la mayoría de la gente le gusta viajar
+	* Un gran número de usuarios está familiarizado con una interfaz de red social
+	* Dichos usuarios esperan tener un cierto grado de personalización dentro de la aplicación
+	* Aparte de compatir sus experiencias, también desean interactuar con otros usuarios, bien para conocer detalles acerca del destino o bien para compartir el viaje o parte del trayecto.
 
 ![Método UX](img/Persona.png) User Personas
 -----
-Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
+Bajo esas premisas, creamos las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
 Por una parte tenemos a Manuel Ortiz, un chico joven y emprendedor que busca nuevas metas en su vida, tanto laborales como sociales. Para ello busca observar nuevos ámbitos donde poder tener un cambio de aires.
 
 ![](P1/UX/Manuel_PersonaTemplate.png)
@@ -62,24 +68,20 @@ Esta experiencia la consideramos menos habitual dado que las personas de su edad
 	
 ![](P1/UX/Josefa_JourneyTemplate.png)
 
-![Método UX](img/usabilityReview.png) 1.d Usability Review
+![Método UX](img/usabilityReview.png) Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+Para crear una propuesta de valor, nos centramos en analizar primero la aplicación elegida (Passporter). Para ello, realizamos una usability review de la misma, que nos va a permitir ver más claramente los puntos fuertes y débiles de la misma.
+
+[Enlace al pdf de la Usability Review](P1/Revision_de_Usabilidad.pdf)
+
+Como conclusiones, obtenemos una valoración de 74 (buena)
+
+## Diseño UX 
 
 
-## Paso 2. UX Design  
-
-
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+![Método UX](img/feedback-capture-grid.png) Feedback Capture Grid
 ----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
+Pasamos a concretar una malla receptora de información de acuerdo a los datos recabados y a nuestra propia experiencia. La matriz se divide en cuatro apartados: puntos fuertes de la aplicación, puntos que mejorar, preguntas que se pueden hacer nuestros usuarios a partir de la experiencia obtenida y por último ideas que aportar como propuestas a la nueva aplicación.
 
 | Interesante/relevante                                        | Críticas constructivas                                                      |
 |--------------------------------------------------------------|-----------------------------------------------------------------------------|
@@ -91,19 +93,18 @@ A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro 
 
 | Preguntas a partir de la experiencia                                    | Nuevas ideas                                                      |
 |----------------------------------------------------------------|-------------------------------------------------------------------------------|
-| ¿Puedo contactar con gente para viajar?                      | Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil |
-| ¿Puedo contactar con alguien de soporte para que me ayude?   | Implementar una plataforma y/o pasarela para la adquisición del viaje       |
-| ¿Puedo buscar un barrio concreto de una ciudad?              | Subir, además de fotografías, videos                                        |
-| ¿No hay modos de edición?                                    |                                                                             |
+| ¿Puedo contactar con gente para viajar?                        | Ofrecer la posibilidad de programar un itinerario/viaje en base a un perfil |
+| ¿Puedo contactar con alguien de soporte para que me ayude?     | Implementar una plataforma y/o pasarela para la adquisición del viaje       |
+| ¿Puedo buscar un barrio concreto de una ciudad?                | Subir, además de fotografías, videos                                        |
+| ¿No hay modos de edición?                                      |                                                                             |
 
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
+A tenor de lo estudiado anteriormente sobre la aplicación escogida (en nuestro caso, Passporter), se decide seguir con el perfil de la aplicación eminentemente social, pues aporta un plus al usuario, especialmente enfocado a personas jóvenes y de mediana edad. Además, se permite la realización de rutas y viajes con el objetivo de buscar y encontrar otros usuarios interesados en realizar un mismo viaje y compartir sus gastos.
 
-![Método UX](img/Sitemap.png) 2.b Tasks & Sitemap 
+![Método UX](img/Sitemap.png) Tasks
 -----
 Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no logueados. Tras un análisis de la funcionalidad de la aplicación, llegamos a la conclusión de que las actividades permitidas a un usuario previamente registrado no varían de forma significativa en función de si pertenece a un grupo social concreto ni es discriminante por edad. Con lo cual vamos a agrupar a los usuarios en “logueados” y “no logueados”.
+
+Las principales funcionalidades de la aplicación se van a centrar en cariz social, la personalización del perfil del usuario así como su contenido, las búsquedas de destinos y el contacto con otros usuarios para gestionar rutas y viajes.
 
 |                                                            | Usuario logueado | Usuario no logueado |
 |------------------------------------------------------------|------------------|---------------------|
@@ -117,16 +118,12 @@ Se va a distinguir esencialmente entre dos grupos de usuarios: logueados y no lo
 | Eliminar un viaje del perfil                               | Medio            | -                   |
 | Apuntarse/darse de baja a/de un viaje                      | Alto             | -                   |
 
->>> Definir "User Map" y "Task Flow" ... 
-
-
-![Método UX](img/labelling.png) 2.c Labelling 
+![Método UX](img/labelling.png) Labelling and Site Map
 ----
 ![Diseño](https://i.imgur.com/QFgAdEe.png)
+
 El sitio web se divide en tres grandes ramas: una zona para la búsqueda de destinos así como información relativa a ellos, una zona para la gestión y desarrollo de los viajes (realización y búsqueda de usuarios) y una última zona asociada al perfil propio del usuario en la aplicación donde éste puede gestionar su actividad en el sitio.
 Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visualizan los últimos viajes/rutas creadas por usuarios y/o los más populares.
-
->>> Identificar términos para diálogo con usuario  
 
 | Label                                                                       | Scope Note                                                                                                                                                                                                                                                                                                                                                                                                      |
 |-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -152,83 +149,6 @@ Las tres ramas mencionadas anteriormente cuelgan de un Home Page, donde se visua
 ![](https://i.imgur.com/KeIVZWZ.jpg)
 
 ![](https://i.imgur.com/vfOB0c8.jpg)
-
-## Paso 3. Mi equipo UX-Case Study 
-
-
-![Método UX](img/moodboard.png) 3.a ¿Como se cuenta un UX-Case Study?
------
-
-
->>> Analizar lo aprendido de la experiencia MuseApp 
-
-![Método UX](img/landing-page.png)  3.b Logotipo
-----
-
-
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
-
-![Método UX](img/guidelines.png) 3.c Guidelines
-----
-
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
-![Método UX](img/mockup.png)  3.d Video
-----
-
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
-
-## Paso 4. Evaluación 
-
-
-![Método UX](img/ABtesting.png) 4.a Casos asignados
-----
-
-
->>> Descripción de las asignaciones (3 UX Case Study) y enlace a  sus repositorios.
-
->>>> En la seccioón P4/readme.md se debe acceder además a sus respectivas hojas de evaluación y conclusiones 
-
-
-![Método UX](img/usability-testing.png) 4.b User Testing
-----
-
->>> Seleccione a una de sus personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas
-
-
-![Método UX](img/Survey.png). 4.c Ranking 
-----
-
->>> Concluya con un ranking de los casos evaluados 
-
->>> Valoración personal 
-
-
-## Paso 5. Evaluación de Accesibilidad  
-
-
-![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report
-----
-
->>> Indica qué pretendes evaluar (de accesibilidad) y qué resultados has obtenido + Valoración personal
-
->>> Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
-
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
-
-
-
-
-
-
-
 
 
 

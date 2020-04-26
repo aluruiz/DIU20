@@ -3,11 +3,13 @@
 
 Nuestra aplicación asignada ha sido aquella que trata sobre compartir viajes, la cuales son un tipo de aplicación que se está haciendo viral. En nuestro caso hemos elegido la aplicación Passporter, que ha sido recomendada por diversas personas en plataformas de streaming online y de la que ya teníamos alguna experiencia previa, no tanto de uso como de conocimiento de su existencia y funcionamiento primario.
 
-En la mesa había más opciones, como Showaround, una aplicación que más que realizar viajes desde el punto de vista de la economía compartida, se basa en la búsqueda de un guía local que ayude a los usuarios a ver/conocer la ciudad durante su estancia. Permite la interacción entre usuarios tanto para buscar guía como para ofrecerse y la creación de rutas y viajes.
+En la mesa había más opciones, como Showaround, una aplicación que más que realizar viajes desde el punto de vista de la economía compartida, se basa en la búsqueda de un guía local que ayude a los usuarios a ver/conocer la ciudad durante su estancia. Permite la interacción entre usuarios tanto para buscar guía como para ofrecerse y la creación de rutas y viajes. No ofrece un soporte como tal para la organización de viajes, es un trabajo que queda para el usuario.
 
-[Añadir comparaciones que faltan] 
+Otra opción estudiada ha sido Travello, una aplicación de eminente carácter social (tiene un asombroso parecido con redes sociales como Instagram), donde cada usuario puede subir sus fotografías y comentarios de sus viajes. Cuenta con numerosas opciones de búsqueda aunque en nuestro caso consideramos que no excesivamente fáciles o intuitivas de usar. Como “red social de viajes” permite la interacción entre usuarios, aunque también percibimos la existencia de numerosos “perfiles falsos”. Cuenta con un único idioma, el inglés, lo cual puede ser un aspecto negativo en función del usuario.
 
-#### 2 Personas
+Por último, Amovens es una aplicación que cuenta tanto con soporte móvil como web y que está enfocada a compartir gastos de desplazamientos entre ciudades, generalmente nacionales. Es una aplicación de carácter práctico, sobria y que prioriza la usabilidad por encima del aspecto visual. Carece del aspecto de red social que sí gozan las anteriores, aunque permite la interacción con usuarios para obtener información del trayecto.
+
+### 2 Personas
 
 Hemos creado las fichas de estos dos personajes de tal manera que tuviésemos perfiles de dos tipos de personas con diferentes puntos de vista.
 
@@ -19,7 +21,7 @@ Por otro lado, tenemos a Josefa Amparo, una señora de mediana edad, de un peque
 
 ![Ficha de Josefa](https://github.com/aluruiz/DIU20/blob/master/P1/UX/Josefa_PersonaTemplate.png)
 
-#### 2 User Journey Map  ( 1 por persona)
+### 2 User Journey Map  ( 1 por persona)
 
 En primer lugar tenemos la experiencia de un chico joven, que ha vivido prácticamente en la era de la tecnología, y nuestra aplicación le ayuda más a revisar las cosas básicas de cada ciudad o país que busca visitar, tales como lo que cuesta vivir allí, las salidas nocturnas, los sitios de interés… etc.
 
@@ -29,18 +31,22 @@ Y por último, Josefa, una señora que utiliza la aplicación gracias a que sus 
 
 - Esta experiencia la consideramos menos habitual dado que las personas de su edad están menos relacionadas con las nuevas tecnologías y el uso de internet.
 
-#### Revisión de Usabilidad 
+### Revisión de Usabilidad 
 
-Enlace al documento:
+#### Enlace al documento:
 https://github.com/aluruiz/DIU20/blob/master/P1/Usability-review-template.xlsx
 
-Valoración final (numérica): 
-74 - Good
+#### Valoración final (numérica): 
+76 - Good
 
-Comentario sobre la valoración: 
-La aplicación elegida es bastante simple e intuitiva para que cualquiera pueda aprender a usarla. 
+#### Comentario sobre la valoración: 
+La aplicación elegida es bastante simple e intuitiva para que cualquiera pueda aprender a usarla. Aunque les faltan algunas opciones como tutoriales de iniciación o ayuda.
+
 Caben destacar algunos errores menores relacionados con la interacción con el usuario, como una traducción al idioma propio no tan buena como debería, no proporcionar una situación clara de dónde se encuentra el usuario en cada momento o la dificultad para ponerse en contacto en caso de error en la aplicación. 
 
-Por otro lado, el entorno web no está tan pulido como el de la aplicación móvil. Ya que mientras la aplicación móvil nos deja registrarnos buscar de manera más clara
+Aparte existen errores a la hora del traspaso de la aplicación móvil a la web, ya que en ese ámbito la web escasea por muchas maneras, por ejemplo en el móvil te deja registrarte con cuentas de google, pero a la hora de realizarlo en la web no existe esa opcion, asi que si tu cuenta está enlazada a google no puedes meterte en la aplicación. Además, la recuperación de contraseña sólo es posible en la aplicación móvil, igual que las distintas opciones a la hora de la búsqueda. 
 
-El diseño está enfocado al de una red social, lo cual puede dificultar el uso a personas que no estén familiarizadas con ellas.
+El diseño está enfocado al de una red social, lo cual puede dificultar el uso a personas que no estén familiarizadas con ellas, aunque el proceso de adaptación no debería ser muy duro.
+
+Pero a la hora de la verdad, la aplicación móvil cumple con lo que se le pide, por ello no se le puede dar una mala valoración, ya que la parte útil de usabilidad está bastante bien y sirve para, como hemos visto en los mapas de uso, obtener la información sobre los distintos sitios que buscamos así como fotos sobre los mismos. 
+
