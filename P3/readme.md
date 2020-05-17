@@ -19,7 +19,7 @@ La última parte está enfocada al diseño propiamente dicho. En primer lugar se
 
 Para concluir, se detalla la guía de estilo de la aplicación al igual que hemos hecho en la práctica. Se enfoca principalmente en la elección de una paleta de colores amigable para el usuario, una tipografía y algunos iconos que darán cuerpo a la aplicación. Una vez hechas estas elecciones, se pasan a crear lo que serán los mock-ups finales.
 
-## Propuesta de elementos de diseño o patrones a usar 
+## Propuesta de elementos de diseño o patrones a usar
 Se ha elegido Material Design como patrón base para nuestra aplicación web, nuestra elección viene dada por la claridad de la interfaz y la facilidad de uso de la misma.
 
 Para los bocetos de alta definición, la navegación superior puede ser resuelta con los [layout](https://getmdl.io/components/index.html#layout-section/layout) que propone Material Design, implementando un icono en el extremo superior izquierdo y posteriores enlaces directos una vez está el usuario iniciado sesión, o un inline form para iniciar sesión en la plataforma si este aún no lo ha hecho.
@@ -37,16 +37,21 @@ Un [fat footer](https://getmdl.io/components/index.html#layout-section/footer) c
 En el apartado de la tipografía hemos escogido la fuente [Baloo Tamma2](https://fonts.google.com/specimen/Baloo+Tamma+2) para los títulos y cabeceras, mientras que [Open Sans](https://fonts.google.com/specimen/Open+Sans) para el resto del texto a mostrar. De manera suplementaria, para iconos, se implementarán los propios iconos diseñados por Material Design pues son los que mejor complementan con el resto de guías de diseño de la aplicación web.
 
 ##### Baloo Tamma2
-![](https://github.com/aluruiz/DIU20/blob/master/P3/img/BalooTamma2.png)
+![](C:\Users\Paula\Documents\GitHub\DIU20\P3\img\BalooTamma2.png)
+
+
+
+
+
 
 ##### Open Sans
-![](https://github.com/aluruiz/DIU20/blob/master/P3/img/OpenSans.png)
+![](C:\Users\Paula\Documents\GitHub\DIU20\P3\img\OpenSans.png)
 
-Y por ultimo, a continuación mostraremos los colores elegidos para nuestra aplicación, hemos buscado colores complementarios, para poder destacar claramente el mensaje a nuestro público, para ello utilizamos la tecnica calido-frio, y así dejar más claro las cosas importantes. Ademas, hemos escogido estos colores porque son una muestra de energia, confianza y serenidad, para que nuestros usuarios esten comodos usandola y se fien de la misma. 
+Y por ultimo, a continuación mostraremos los colores elegidos para nuestra aplicación, hemos buscado colores complementarios, para poder destacar claramente el mensaje a nuestro público, para ello utilizamos la tecnica calido-frio, y así dejar más claro las cosas importantes. Ademas, hemos escogido estos colores porque son una muestra de energia, confianza y serenidad, para que nuestros usuarios esten comodos usandola y se fien de la misma.
 
 Tambien nos ha ayudado a elegir los colores la pagina propia de Material Design, pues tiene un editor propio con un apartado de accesibilidad, que nos muestra la calidad de visual de nuestros colores para las personas con discapacidad. Esta es otra de las razones por la cual nuestra eleccion de colores son los complementarios, para que quede claro para aquellas personas con problemas de visión.
 
-![](https://github.com/aluruiz/DIU20/blob/master/P3/img/Colores.jpg)
+![](C:\Users\Paula\Documents\GitHub\DIU20\P3\img\Colores.png)
 
 ## Historia en Video del UX Case Study
 
@@ -58,5 +63,3 @@ Ha sido de gran utilidad analizar los pasos seguidos por otros desarrolladores p
 La parte de buscar patrones y propuestas de elementos de diseño ha sido una parte muy interesante e igualmente difícil, aunque nos ha hecho aprender lo importante que es la sencillez y la accesibilidad de una web o aplicación. Además, hemos visto la infinidad de opciones que hay y todos los fallos que nos pueden ocurrir, nos ha hecho coger perspectiva de lo que es una buena base de front end y la necesidad de adaptarla a los visitantes.
 
 De cara a la organización del repositorio, hemos de decir que ahora está organizado de una forma que permite ver de manera global los pasos que se han ido siguiendo y nos parece acertado.
-
-
